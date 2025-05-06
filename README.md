@@ -69,11 +69,6 @@ Implementation Framework: **TensorFlow/Keras**
 
 Contributions are welcome! If you'd like to enhance the model, add new emotion categories, or improve the UI, feel free to fork the repository and submit a pull request. Whether it's fixing bugs, adding features, or sharing feedback—every bit helps make this project better.
 
-If you find this work useful or inspiring, consider giving the repo a star!
-
-## Connect
-
-Have questions, ideas, or want to collaborate?
 
 Feel free to reach out:
  
