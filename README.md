@@ -6,6 +6,7 @@
 - [Model Architecture](#model-architecture)
 - [Dataset](#dataset)
 - [How to Run](#how-to-run)
+- [Contribute!](#contribute)
 
 ## Overview
 
