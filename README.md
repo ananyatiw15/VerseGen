@@ -47,4 +47,35 @@ Implementation Framework: **TensorFlow/Keras**
 
 1. **Install dependencies**
    ```bash
-   pip install -r requirements.txt
+   pip install streamlit==1.32.2
+   pip install tensorflow==2.15.0
+   pip install keras==2.15.0
+   pip install numpy==1.24.3
+   pip install nltk==3.8.1
+   pip install scikit-learn==1.3.0
+   
+2. **Start the Streamlit app**
+   ```bash
+   streamlit run app.py
+   
+3. **Usage**
+- Enter a topic or poetic prompt
+- Choose an emotion
+- Adjust temperature for creativity
+- Click "Generate Poem" to view results and emotion score
+
+## Contribute!
+
+Contributions are welcome! If you'd like to enhance the model, add new emotion categories, or improve the UI, feel free to fork the repository and submit a pull request. Whether it's fixing bugs, adding features, or sharing feedback—every bit helps make this project better.
+
+If you find this work useful or inspiring, consider giving the repo a star!
+
+## Connect
+
+Have questions, ideas, or want to collaborate?
+
+Feel free to reach out:
+ 
+- **LinkedIn**: [Ananya Tiwari](https://linkedin.com/in/ananya-tiw)  
+
+Let's build something poetic and powerful together!
